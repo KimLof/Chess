@@ -9,8 +9,7 @@ This is a simple chess game implemented in JavaScript. It allows two players to 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/chess-game.git`
-2. Change directory: `cd chess-game`
+1. Clone the repository: `git clone https://github.com/KimLof/Chess.git`
 3. Open index.html in your web browser.
 
 ## How to Play
